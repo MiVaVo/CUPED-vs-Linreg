@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Vaag"
-  given-names: "Minasyan"
-- family-names: "Diana"
-  given-names: "Mirzoyan"
-- family-names: "Alexander"
-  given-names: "Sakhnov"
+- family-names: "Minasyan"
+  given-names: "Vaag"
+- family-names: "Mirzoyan"
+  given-names: "Diana"
+- family-names: "Sakhnov"
+  given-names: "Alexander"
 title: "Derivation of bias for average treatment effect estimation on residuals"
 version: 2.0.4
 date-released: 2021-10-09
